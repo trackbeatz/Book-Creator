@@ -637,7 +637,7 @@ My Book
 
 # 📜 License
 
-No explicit license is currently documented in the repository. If you plan to redistribute, modify, or publish the project, add an appropriate `LICENSE` file to the repository and state the permitted usage here.
+This project is free and open source can be used how you want. 
 
 ---
 
